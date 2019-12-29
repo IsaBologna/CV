@@ -1,15 +1,19 @@
-h1{
+h1 {
     color: #50d890;
 }
-h2{
+
+h2 {
     color: #4f98ca;
 }
-h3{
+
+h3 {
     color: #4f98ca;
 }
+
 body {
     background-color: #effffb;
     color: #272727;
+    text-align: center;
 }
 
 hr {
@@ -23,4 +27,8 @@ hr {
     height: 0px;
     border-top-width: 5px;
     width: 40px;
+}
+table {
+width: 50%;
+    margin: initial;
 }
